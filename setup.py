@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='regressao_linear_brasil',
-    version='0.1',
+    name='modelo_linear_brasil',
+    version='0.0.1',
     packages=find_packages(),
     description='Uma classe para Regressão Linear em português, contendo as principais métricas da abordagem como métodos.',
     author='Bruno Rodrigues Carloto',
